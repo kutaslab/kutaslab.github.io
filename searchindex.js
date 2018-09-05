@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:55,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{fitgrid:0,manag:0,mass:0,multipl:0,regress:0},titles:["Kutas Lab software projects"],titleterms:{kuta:0,lab:0,project:0,softwar:0}})
