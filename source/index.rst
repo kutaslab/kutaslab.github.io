@@ -3,18 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to kutaslab.github.io's documentation!
-==============================================
+Kutas Lab software projects
+===========================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* `fitgrid <https://kutaslab.github.io/fitgrid>`_: a mass multiple regression manager
