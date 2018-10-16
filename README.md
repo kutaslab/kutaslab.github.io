@@ -58,11 +58,11 @@ We assume your repo is under the `kutaslab` organization on GitHub. Go to
 https://travis-ci.org/kutaslab, log into your Travis account and activate the
 repo. In the repo settings, you will see the following fields:
 
-![empty](empty.png)
+![empty](images/empty.png)
 
 Enter your GitHub token as follows and click add:
 
-![filled](filled.png)
+![filled](images/filled.png)
 
 This lets Travis commit generated HTML files back to the repo
 on your behalf. 
@@ -111,11 +111,11 @@ HTML files.
 
 In the repo settings on GitHub, select `gh-pages` as the branch to use for GitHub Pages and click `Save`:
 
-![gh-pages](gh-pages.png)
+![gh-pages](images/gh-pages.png)
 
 In a couple minutes the bar will turn green:
 
-![success](success.png)
+![success](images/success.png)
 
 You should now be able to see your project documentation under https://kutaslab.github.io/your_project_name.
 
