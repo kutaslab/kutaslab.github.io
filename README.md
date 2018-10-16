@@ -1,6 +1,6 @@
 # How to add a Python project with Sphinx documentation to `kutaslab.github.io`
 
-## Dramatis Personæ
+### Dramatis Personæ
 
 - Your **GitHub repo** with Sphinx documentation that can be used to
   generate HTML files.
@@ -9,6 +9,15 @@
    `.travis.yml`, a file that you put in the repo.
 - **GitHub Pages**, a GitHub service that takes HTML files found in a repo and
    puts them up as a website.
+
+### Table of contents
+
+- [Step 1: Prepare your project](#step-1-prepare-your-project)
+- [Step 2: Activate Travis](#step-2-activate-travis)
+- [Step 3: Create `.travis.yml` in your repo](#step-3-create-travisyml-in-your-repo)
+- [Step 4: Tell GitHub to use `gh-pages`](#step-4-tell-github-to-use-gh-pages)
+- [Step 5: Add a link to your project on `kutaslab.github.io`](#step-5-add-a-link-to-your-project-on-kutaslabgithubio)
+
 
 ## Step 1: Prepare your project
 
