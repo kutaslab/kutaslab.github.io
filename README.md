@@ -21,8 +21,11 @@
 
 ## Step 1: Prepare your project
 
-Make sure that you know the steps needed to successfully run Sphinx on a fresh
-copy of your code. For Python projects, this includes:
+Make sure you know the steps to successfully run Sphinx on a fresh
+copy of your code, you will need them in [part
+3](#step-3-create-travisyml-in-your-repo) of this tutorial.
+
+For Python projects, this includes:
 
 1. **Installing the dependencies.** To pull out the docstrings in your code,
    Sphinx imports the submodules of your project. Unless all dependencies are
