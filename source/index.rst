@@ -15,3 +15,10 @@ Kutas Lab software projects
 
    * `source code <https://github.com/kutaslab/fitgrid>`_
    * `documentation <https://kutaslab.github.io/fitgrid>`_
+
+
+* **spudtr**: some pandas utilities and data transforms
+
+   * `source code <https://github.com/kutaslab/spudtr>`_
+   * `documentation <https://kutaslab.github.io/spudtr>`_
+ 
