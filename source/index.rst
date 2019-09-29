@@ -8,8 +8,8 @@ Kutas Lab software projects
 
 * **mkpy**: an EEG processing pipeline
 
-   * `source code <https://github.com/kutaslab/mkpy_public>`_
-   * `documentation <https://kutaslab.github.io/mkpy_public>`_
+   * `source code <https://github.com/kutaslab/mkpy>`_
+   * `documentation <https://kutaslab.github.io/mkpy>`_
 
 * **fitgrid**: a mass multiple regression manager
 
