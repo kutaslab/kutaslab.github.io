@@ -6,7 +6,7 @@
 Kutas Lab software projects
 ===========================
 
-* **mkpy**: EEG data file format and utilities
+* **mkpy**: EEG data interchange utilities
 
    * `source code <https://github.com/kutaslab/mkpy>`_
    * `documentation <https://kutaslab.github.io/mkpy>`_
