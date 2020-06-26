@@ -22,3 +22,5 @@ Kutas Lab software projects
    * `source code <https://github.com/kutaslab/spudtr>`_
    * `documentation <https://kutaslab.github.io/spudtr>`_
  
+We gratefully acknowledge the support of grant NICHD 5R01HD022614 for the
+development of these routines.
