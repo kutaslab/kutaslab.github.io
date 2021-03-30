@@ -20,7 +20,8 @@ Kutas Lab software projects
 * **spudtr**: some pandas utilities and data transforms
 
    * `source code <https://github.com/kutaslab/spudtr>`_
-   * `documentation <https://kutaslab.github.io/spudtr>`_
+   * stable release: `documentation <https://kutaslab.github.io/spudtr>`_
+   * latest pre-release: `documentation <https://kutaslab.github.io/spudtr-dev-docs>`_
  
 We gratefully acknowledge the support of grant NICHD 5R01HD022614 for the
 development of these routines.
