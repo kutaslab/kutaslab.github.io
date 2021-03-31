@@ -1,5 +1,5 @@
-Kutas Lab software projects
-===========================
+Kutas Lab open-source software projects
+=======================================
 
 Stable releases from github branch `main` tagged vM.N.P are frozen and archived on Zenodo.
 
